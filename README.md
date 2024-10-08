@@ -12,8 +12,6 @@ The code is written in python.
 - requests
 - google-generativeai
 - pypdf
-- sqlalchemy
-- psycopg2
 - json
 - os
 
