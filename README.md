@@ -18,3 +18,5 @@ The code is written in python.
 - os
 
 Install python in system
+
+Gemini API: https://ai.google.dev/
