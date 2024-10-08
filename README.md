@@ -1,9 +1,20 @@
 **Description:**
-
-Give a resume(.pdf) as input in the code.
-The given resume is converted into text data.
-The textual resume data is passed then to Gemini API.
-Extracts name, email, phone, college, skills from the data passed to Gemini API.
-Finally, displays the extracted output in pandas dataframe.
+1. Give a resume(.pdf) as input in the code.
+2. The given resume is converted into text data.
+3. The textual resume data is passed then to Gemini API.
+4. Extracts name, email, phone, college, skills from the data passed to Gemini API.
+5. Finally, displays the extracted output in pandas dataframe.
 
 The code is written in python.
+
+**Import modules:**
+- pandas
+- requests
+- google-generativeai
+- pypdf
+- sqlalchemy
+- psycopg2
+- json
+- os
+
+Install python in system
