@@ -11,7 +11,7 @@ Copy the API key. Add the API key that you have coppied to your system environme
 After adding your API key save and exit the file.
 - In *Windows* open *cmd(command prompt)* and type ``setx GEMINI_API_KEY “<yourkey>”``
 
-**Import modules:**  
+**Import python modules:**  
 pandas  
 requests  
 google-generativeai  
