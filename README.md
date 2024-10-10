@@ -8,10 +8,7 @@
 * The code is written in python.
 * Install python in your system.
 * Copy your gemini_api_key and export your key:
-  - In ubuntu:
-  {
-    export "GEMINI_API_KEY=your_api_key"
-  }
+  - Ubuntu:    export "GEMINI_API_KEY="
 
 **Import modules:**
 - pandas
