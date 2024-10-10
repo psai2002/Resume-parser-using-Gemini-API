@@ -23,7 +23,8 @@ import os
   response = model.generate_content("Explain how AI works")  
   print(response.text)
 ```
-The above code lines will be used in our resume parser code.  
+The above code lines will be used in our resume parser code.
+
 **Import modules:**  
 pandas  
 requests  
