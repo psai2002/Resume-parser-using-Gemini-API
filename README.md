@@ -5,9 +5,8 @@
 4. Extracts name, email, phone, college, skills from the data passed to Gemini API.
 5. Finally, displays the extracted output in pandas dataframe.
 
-- The code is written in python. -
-
-- Install python in system -
+-> The code is written in python.
+-> Install python in system.
 
 **Import modules:**
 - pandas
