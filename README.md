@@ -1,3 +1,4 @@
+## Resume parser using Gemini API
 ### Description:
 Give a resume(.pdf) as input in the code. The given resume is converted into text data.  
 The textual resume data is passed then to Gemini API. Extracts name, email, phone, college,  
