@@ -11,18 +11,6 @@ Copy the API key. Add the API key that you have coppied to your system environme
 After adding your API key save and exit the file.
 - In *Windows* open *cmd(command prompt)* and type ``setx GEMINI_API_KEY “<yourkey>”``
 
-Copy the code which is in Gemini API website, the code lines look like:  
-```
-import google.generativeai as genai  
-import os
-
-  genai.configure(api_key=os.environ["GEMINI_API_KEY"])  
-  model = genai.GenerativeModel(model_name="gemini-1.5-flash")  
-  response = model.generate_content("Explain how AI works")  
-  print(response.text)
-```
-The above code lines will be used in our resume parser code.
-
 **Import modules:**  
 pandas  
 requests  
