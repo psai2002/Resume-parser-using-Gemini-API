@@ -6,7 +6,7 @@
 5. Finally, displays the extracted output in pandas dataframe.
 
 * The code is written in python.
-* Install python in system.
+* Install python in your system.
 
 **Import modules:**
 - pandas
