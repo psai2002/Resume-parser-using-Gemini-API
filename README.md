@@ -1,6 +1,6 @@
 ## Resume parser using Gemini API
 ### Description:
-Give a resume(.pdf) as input in the code. The given resume is converted into text data. The textual resume data is then passed to Gemini API. Extracts name, email, phone, college, skills from the data passed to Gemini API. Finally, displays the extracted output in pandas dataframe.
+Give a resume(.pdf) as input in the code. The given resume is converted into text data. The textual resume data is then passed to Gemini API. Extract name, email, phone, college, skills from the data passed to Gemini API. Finally, displays the extracted output in pandas dataframe.
 
 - The code is written in python.
 - Install [python](https://www.python.org) in your system.
