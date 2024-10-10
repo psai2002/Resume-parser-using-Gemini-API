@@ -9,7 +9,7 @@ Go to [Gemini API](https://ai.google.dev/) website. Login with your account and 
 Copy the API key. Add the API key that you have coppied to your system environment variables:  
 - In *Ubuntu or MAC* open ``~/ .bashrc`` and add a line ``export "GEMINI_API_KEY=<your_api_key>"``.  
 After adding your API key save and exit the file.
-- In *Windows* open *cmd* and type ``setx GEMINI_API_KEY “<yourkey>”``
+- In *Windows* open *cmd(command prompt)* and type ``setx GEMINI_API_KEY “<yourkey>”``
 
 Copy the code which is in Gemini API website, the code lines look like:  
 ```
