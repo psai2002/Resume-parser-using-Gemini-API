@@ -5,7 +5,7 @@
 - Extracts name, email, phone, college, skills from the data passed to Gemini API.
 - Finally, displays the extracted output in pandas dataframe.
 
-= The code is written in python.
+? The code is written in python.
 + Install python in your system.
 + Copy your gemini_api_key:
 
