@@ -7,9 +7,8 @@ Give a resume(.pdf) as input in the code. The given resume is converted into tex
 
 Go to [Gemini API](https://ai.google.dev/) website. Login with your account and create API key.  
 Copy the API key. Add the API key that you have coppied to your system environment variables:  
-- In *Ubuntu or MAC* open ``~/ .bashrc`` and add a line ``export "GEMINI_API_KEY=<your_api_key>"``.  
+- In *Ubuntu* open ``~/ .bashrc`` and add a line ``export "GEMINI_API_KEY=<your_api_key>"``.  
 After adding your API key save and exit the file.
-- In *Windows* open *cmd(command prompt)* and type ``setx GEMINI_API_KEY “<yourkey>”``
 
 **Import python modules:**  
 pandas  
@@ -18,3 +17,7 @@ google-generativeai
 pypdf  
 json  
 os
+
+After setting up all the things open terminal.  
+Go to the location of your file by entering: ``cd 'path/to/your/code_file'``.  
+Run the code by typing: ``python3 file_name.py``.
